@@ -12,6 +12,7 @@ Link: [java.com](https://www.java.com/en/download/)
   * [Eclipse](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)
 
 ## Getting started
+* Run the LibraryDB.sql file first to get to create a database and install sample data
 * Open project folder in your favourite IDE
 * Click the run button
 
